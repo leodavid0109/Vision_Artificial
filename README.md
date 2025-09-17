@@ -1,7 +1,7 @@
 # Repositorio de Visión Artificial 👁️‍🗨️
 
 ¡Bienvenido al repositorio de Visión Artificial!  
-Este repositorio ha sido creado como parte del desarrollo de tareas y ejercicios de la materia de **Visión Artificial** en [nombre de la institución educativa].  
+Este repositorio ha sido creado como parte del desarrollo de tareas y ejercicios de la materia de **Visión Artificial**.  
 Aquí encontrarás implementaciones, ejemplos y recursos relacionados con el procesamiento digital de imágenes y técnicas de aprendizaje automático aplicadas a la visión por computadora.
 
 ## Acerca de Visión Artificial
